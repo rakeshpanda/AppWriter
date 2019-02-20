@@ -113,7 +113,7 @@ const fetchData = (url) =>{
 };
 
 const log = (...msg) => {
-   console.log(msg);
+  // console.log(msg);
 };
 
 const input = document.querySelector("#input");
